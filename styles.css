@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background: linear-gradient(rgb(231, 152, 6),white);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+li,h1,ul{
+    display: inline;
+
+}
+ul{
+    margin-left: 50%;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    padding: 10px%;
+    margin: 28px;
+    cursor: pointer;
+    background:linear-gradient(to bottom,orange,white );
+}
+.foods{
+    display: inline-block;
+    background :linear-gradient(to right,rgb(182, 80, 80),white);
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+.item1{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+    text-align: center;
+    
+}
+.item1 img{
+    height: 140px;
+    width: 140px;
+}
+.item2{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item2 img{
+    height: 140px;
+    width: 140px;
+}
+.item3{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item3 img{
+    height: 140px;
+    width: 140px;
+}
+.item4{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item4 img{
+    height: 140px;
+    width: 140px;
+}
+
+.item5{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item5 img{
+    height: 140px;
+    width: 140px;
+}
+.item6{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item6 img{
+    height: 140px;
+    width: 140px;
+}
+.item7{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item7 img{
+    height: 140px;
+    width: 140px;
+}
+.item8{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width: 140px;
+    margin: 15px;
+}
+.item8 img{
+    height: 140px;
+    width: 140px;
+}
+table{
+    margin: 2px;
+    padding: 2px;
+    border: 2px;
+    
+}
+.ones{
+    margin: 2px;
+    padding: 2px;
+    background: linear-gradient(rgb(231, 152, 6),white);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.about{
+    color: orange;
+    background-color: black;
+    text-align: center;
+}
